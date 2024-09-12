@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+.td1{
+    width: 300px;
+    height: 350px;
+    background-color: aqua;
+    
+    
+}
+body{
+    background-image: url("../X1.jpg");
+    background-repeat: no-repeat;
+    background-size: 1300px 1500px;
+    
+}
